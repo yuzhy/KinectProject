@@ -1,5 +1,12 @@
-Kinect Project
+姿势矫正系统项目规划
 用于开发 Kinect的姿势矫正系统。
+
+## Title Here: Readme Tutorial 
+- Author: Champion-Liu
+- Revised: Champion-Liu
+- Date: 2018-09-13
+- Version: 1.0.0
+- Abstract: Hello, this is the readme tutorial about how to show out your bug.
 
 目前打算开发的Demo版本应当包括以下功能：
 
