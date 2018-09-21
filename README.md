@@ -1,5 +1,9 @@
-Kinect Project
-用于开发 Kinect的姿势矫正系统。
+## 姿势矫正系统项目规划
+- Author: Zsir
+- Revised: Zsir
+- Date: 2018-09-21
+- Version: 1.0.0
+- Abstract: 对项目作品的功能规划
 
 目前打算开发的Demo版本应当包括以下功能：
 
